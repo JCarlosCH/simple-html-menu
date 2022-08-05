@@ -1,0 +1,12 @@
+.menu {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    /* gap: 1em; */
+}
+
+.menu > li {
+    flex-basis: 12.5%;
+    text-align: center;
+    border: 1px solid #8e8e8e;
+}
